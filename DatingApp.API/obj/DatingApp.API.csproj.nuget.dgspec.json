@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tauri\\Documents\\Projects\\DatingAppV2\\datingapp.api\\DatingApp.API.csproj": {}
+    "C:\\Users\\tauri\\Documents\\Projects\\DatingAppV2\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tauri\\Documents\\Projects\\DatingAppV2\\datingapp.api\\DatingApp.API.csproj": {
+    "C:\\Users\\tauri\\Documents\\Projects\\DatingAppV2\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tauri\\Documents\\Projects\\DatingAppV2\\datingapp.api\\DatingApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\tauri\\Documents\\Projects\\DatingAppV2\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "C:\\Users\\tauri\\Documents\\Projects\\DatingAppV2\\datingapp.api\\DatingApp.API.csproj",
+        "projectPath": "C:\\Users\\tauri\\Documents\\Projects\\DatingAppV2\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\tauri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tauri\\Documents\\Projects\\DatingAppV2\\datingapp.api\\obj\\",
+        "outputPath": "C:\\Users\\tauri\\Documents\\Projects\\DatingAppV2\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
